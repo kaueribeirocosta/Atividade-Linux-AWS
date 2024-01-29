@@ -17,12 +17,26 @@ ___
     
     ![Pares de chave 2](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/28559842-3c8b-418e-a007-c51ca29ec7a7)
 
-  - Insira o **Nome**, e mude o **Formato de arquivo para ".pem"**. Depois é só clicar em criar
- 
-  - 
+  - Insira o **Nome**, e mude o **Formato de arquivo para ".pem"**. Depois é só clicar em **criar**
 
+    ![Par de chaves 3](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/9072967a-f331-46d8-adda-a22a81b717a9)
 
 - Gerar um **"Grupo de segurança"** para liberar as **portas de comunicação**
+  - Dentro do painel do serviço **EC2**, clique na opção **Grupos de segurança**
+    ![SG 1](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/ca9d86f9-9439-4ec5-b4d7-e7e2c402cc87)
+
+  - Agora vamos **Criar Grupo de Segurança**
+    ![SG 1](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/ca9d86f9-9439-4ec5-b4d7-e7e2c402cc87)
+
+  - Adicione um **Nome**, uma **Descrição**, e selecione a **VPC padrão**
+    ![SG 3](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/a6669b55-6a7a-466f-adb9-3d825b30b63d)
+
+  - Adicione as **Regras de Entrada** como está na imagem
+    ![SG 4](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/93ae4af7-9ded-4b3f-b4f2-685813e54164)
+
+  - Agora é só criar de **Grupo de Segurança**
+    ![SG 5](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/dd08edee-c31a-4d5e-b72b-66414a4ad98d)
+
 - Criar uma **"Instância EC2"** para podermos subir nosso **Apache**
 - Gerar um **"Elastic IP"** e anexar a nossa **instância EC2** já criada!
 
