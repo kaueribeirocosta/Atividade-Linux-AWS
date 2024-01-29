@@ -10,7 +10,16 @@ ___
 # Prática
 ## **Prática AWS**
 - Gerar um **"Par de chaves"** para acessar a instância **EC2**
-  - Dentro do painel do serviço **EC2**
+  - Dentro do painel do serviço **EC2**, clique na opção **Pares de Chaves**
+    ![Par de Chaves](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/777a35e2-177e-4c25-af3c-b5fb46a913cc)
+
+  - Clique em **Criar par de chaves**
+   
+  - Insira o **Nome**, e mude o **Formato de arquivo para ".pem"**. Depois é só clicar em criar
+ 
+  - 
+
+
 - Gerar um **"Grupo de segurança"** para liberar as **portas de comunicação**
 - Criar uma **"Instância EC2"** para podermos subir nosso **Apache**
 - Gerar um **"Elastic IP"** e anexar a nossa **instância EC2** já criada!
