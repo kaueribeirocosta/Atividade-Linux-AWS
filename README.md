@@ -14,7 +14,9 @@ ___
     ![Par de Chaves](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/777a35e2-177e-4c25-af3c-b5fb46a913cc)
 
   - Clique em **Criar par de chaves**
-   
+    
+    ![Pares de chave 2](https://github.com/kaueribeirocosta/Atividade-Linux-AWS/assets/157628195/28559842-3c8b-418e-a007-c51ca29ec7a7)
+
   - Insira o **Nome**, e mude o **Formato de arquivo para ".pem"**. Depois é só clicar em criar
  
   - 
